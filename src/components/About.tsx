@@ -23,14 +23,14 @@ const About = () => {
           <div>
             {/* Gradient Heading */}
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-4 sm:mb-6 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 leading-snug">
-              We're Your Moving Partner in UAE
+              We&apos;re Your Moving Partner in UAE
             </h2>
 
             <div className="text-base sm:text-lg md:text-2xl leading-relaxed text-black">
               <p className="mb-4 sm:mb-6">
                 We provide all-in-one furniture moving services tailored to your
                 needs. Whether short-distance or long-distance moves, heavy or
-                small furniture — we’ve got you covered.
+                small furniture — we&apos;ve got you covered.
               </p>
               <p className="mb-4 sm:mb-6">
                 Our team handles your moving requirements with care,
@@ -79,11 +79,11 @@ const About = () => {
             <ul className="space-y-2 sm:space-y-3 mb-6 sm:mb-8 text-black text-sm sm:text-base md:text-lg font-semibold">
               <li className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-blue-500 rounded-full"></span>
-                Professional packing & moving expertise
+                Professional packing &amp; moving expertise
               </li>
               <li className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-blue-500 rounded-full"></span>
-                350+ staff & 20+ vehicles (vans & trucks)
+                350+ staff &amp; 20+ vehicles (vans &amp; trucks)
               </li>
               <li className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-blue-500 rounded-full"></span>
@@ -123,11 +123,11 @@ const About = () => {
           <div className="max-w-4xl mx-auto text-sm sm:text-base md:text-lg text-black leading-relaxed font-semibold">
             <p className="mb-4 sm:mb-6">
               Dubai Villa Movers has been a leading moving company in UAE since
-              2010. We’ve delivered professional packing and moving services
+              2010. We&apos;ve delivered professional packing and moving services
               across the Emirates.
             </p>
             <p>
-              With trained staff and a fleet of vehicles, we offer affordable &
+              With trained staff and a fleet of vehicles, we offer affordable &amp;
               reliable relocation for homes and businesses.
             </p>
           </div>
